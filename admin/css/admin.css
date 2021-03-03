@@ -1,0 +1,22 @@
+h3, h4, h5 {
+    color: #b4a78e !important;
+}
+
+.detail .modal-dialog .overflow-auto {
+    height: 140px !important;
+}
+
+.img-cover {
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.navbar-search .btn, .card-header .add {
+    background-color: #b4a78e;
+    color: white;
+    box-shadow: none;
+}
+
+.form-control {
+    box-shadow: none !important;
+}
